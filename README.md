@@ -1,2 +1,2 @@
 # Data-Transformation-with-Power-Query for Sales Analysis
-This repository encompasses the documentation detailing the data transformation processes executed through Power Query M code.
+Welcome to the 'Data Transformation with Power Query for Sales Analysis' repository. In this comprehensive resource, we delve into the intricacies of leveraging Power Query for the purpose of transforming and preparing data for insightful sales analysis. Explore detailed documentation, best practices, and practical examples as we navigate the journey of optimizing sales data through the power of Power Query.
